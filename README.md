@@ -41,6 +41,6 @@ This project contains 5 exercises:
 
 ---
 
-**Author: Zhumanazarov Yasinbek
+Author: Zhumanazarov Yasinbek
 
 *First-year Software Engineering student*
